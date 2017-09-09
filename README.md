@@ -1,5 +1,5 @@
 # Face_reco_scripts
-<h2> Generalities
+<h3> Generalities
 
 python scripts for (basic) face recognition
 
@@ -9,7 +9,7 @@ python scripts for (basic) face recognition
 <li> reco_face_static.py, reco_face_video.py
 </ul>
 
-<h3> static
+<h5> static
 reco_face_static.py takes 2 arguments : 
 <ul>
 <li>the first one is the path to an haarcascades xml file for default face. 
@@ -17,7 +17,7 @@ reco_face_static.py takes 2 arguments :
 <li>The script makes a copy with faces recognized (overlay green rectangle)
 </ul>
 
-<h3> dynamic
+<h5> dynamic
 reco_face_video.py
 <ul>
 <li> loads your webcam and recognize faces, eyes 
